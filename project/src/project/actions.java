@@ -21,7 +21,7 @@ public class actions extends JFrame {
 
     JButton with = new JButton("Withdraw");
     JButton dep = new JButton("Deposit");
-    JButton bi = new JButton("Balance Inquiry");
+    JButton bi = new JButton("BalanceInquiry");
     JButton prev = new JButton("Previous");
     JButton nex = new JButton("Next");
     JButton back = new JButton("Back");
